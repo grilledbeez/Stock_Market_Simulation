@@ -4,12 +4,12 @@ from time import sleep
 
 
 """
-QUESTIONS
+QUESTIONS/GOALS
 Would I need to directly define each company and it's info?
 Will I have to use "+=" to keep the values true through each year?
 Should I make it Oregon Trail Style???
 How would I implement a candlestick graph
-Add economic events that effect the economy
+Add random economic events that effect the economy
 """
 
 #STOCK MARKET SIMULATION
