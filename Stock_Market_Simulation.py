@@ -2,9 +2,7 @@ import random
 from time import sleep
 # import tkinter
 
-"""
-This is my first full project, aimed at providing players with a generic understanding of the stock market. In the future, I plan to enhance this project by incorporating more advanced features and functions. The code functions like the Oregan Trail game. Insert names and numbers when prompted and type Y/N for yes & no questions. Make sure you pay attention to what the code is asking you to respond with. The rules are provided at the start of the simulation.
-"""
+
 """
 QUESTIONS
 Would I need to directly define each company and it's info?
